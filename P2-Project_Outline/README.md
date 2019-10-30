@@ -15,7 +15,7 @@ and user (applicant). Both the applicant and the employer will be able to edit t
 
 ### Technologies
 - Java
-- Springboot
+- SpringBoot
 - Thymeleaf
 - Hibernate
 - MySQL
