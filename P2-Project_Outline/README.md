@@ -1,18 +1,29 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
+# codeJobs Project Outline
 
 ### Overview
-Include overview here
+The codeJobs application will provide a site for job applicants to apply for available jobs and for employers to list 
+open positions. Employers will be able enter available jobs into an employer portal and applicants to apply for those 
+jobs in an applicant portal. The codeJobs application will have three different user levels, administrative, employer, 
+and user (applicant). Both the applicant and the employer will be able to edit their own entries.
+
 ### Features
-Include Features here
+- Edit user entries
+- Picture of applicant
+- Email option for employers
+- User login
+- Search
+
 ### Technologies
-Include Technologies here
+- Java
+- Springboot
+- Thymeleaf
+- Hibernate
+- MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+- How to create sessions
+- How to create a table of foreign keys
+- How to edit entries in a database 
+
 ### Project Tracker
-Link to your Trello board here
+- https://github.com/fredhodgman/codeJobs
